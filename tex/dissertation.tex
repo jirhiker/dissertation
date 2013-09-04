@@ -1,0 +1,139 @@
+\documentclass[12pt]{report}
+%================================================================
+% Preamble declarations
+%----------------------------------------------------------------
+% For instructions regarding the Graduate Office style, see:
+%   http://www.nmt.edu/tcc/help/pubs/nmtthesis/
+% For instructions regarding the nmtthesis2013.sty package, see:
+%   http://www.nmt.edu/tcc/help/pubs/nmtthesis/latex2013/
+%----------------------------------------------------------------
+% Place \usepackage commands for other modules here
+\usepackage{natbib}% Example bibliographic style
+%
+% Use the NMT 2013 thesis style
+%
+\usepackage{nmtthesis2013}
+%
+% Select the type of publication, one of these three.
+%
+\dissertation
+%
+% General options
+%
+\author{Jake Ross}
+\title{Geochronology of Southern McMurdo Sound and development of a micro laser furnace}
+\degree{Doctor of Philosophy}
+%
+% If you leave the following line commented, the date will be
+% the next available month and year of graduation ceremonies
+%
+\graduationdate{April, 2014}
+
+% Name your chairperson here.  Do not use titles such as Dr. or Ph.D.
+%
+\chair{William C. McIntosh}
+%
+% Number of people on your committee include chair(s)
+%
+\committeesize{5}
+%================================================================
+\begin{document}
+%
+% Begin front matter
+%
+%----------------------------------------------------------------
+\begin{dedication}
+{To my arrow...}
+\end{dedication}
+%----------------------------------------------------------------
+%
+% Produce the title page
+%
+\titlepage
+%----------------------------------------------------------------
+%%%%\epigraph[who said it]{what they said}
+%----------------------------------------------------------------
+%%%%\frontispiece[title of the graphic]{some graphic}
+%----------------------------------------------------------------
+%
+% An abstract is required.  For suggestions on its content, see:
+%   http://www.aapg.org/bulletin/abstract_scrutiny.pdf
+% After your abstract, provide two to six keywords, or key 
+% phrases of up to three words, to assist librarians in
+% indexing your work.
+%
+\begin{abstract}
+this is an abstract
+
+\keywords{A; B; C}
+\end{abstract}
+%----------------------------------------------------------------
+\begin{acknowledgments}
+{Foo}
+
+\end{acknowledgments}
+%----------------------------------------------------------------
+\tableofcontents
+%
+% If you have no tables, comment out \listoftables.
+% If you have no figures, comment out \listoffigures.
+% If you provide a List of Abbreviations, create a file
+%   'abbrs.tex' containing the abbreviations table, and
+%   uncomment \listofabbrs.
+%
+\listoftables
+\listoffigures
+%%%%\listofabbrs
+%----------------------------------------------------------------
+\signaturepage
+%----------------------------------------------------------------
+\begin{preface}
+{Foo}
+\end{preface}
+%================================================================
+% Body of the document.   Use one of these commands to start each
+% chapter:
+%   \chapter{FIRST CHAPTER TITLE}
+%   \chapter[FIRST SHORT TITLE]{FULL LENGTH CHAPTER TITLE}
+% If you have appendices, use these commands:
+%   \appendix
+%   \chapter{FIRST APPENDIX TITLE}
+%     ...
+%   \chapter{SECOND APPENDIX TITLE}
+%     ...
+%----------------------------------------------------------------
+\chapter{FIRST CHAPTER TITLE}
+
+
+
+%================================================================
+% References section.  Uncomment one of the next two commands,
+% depending on whether you cite references by number, or by
+% author and year.
+% 
+% For numbered citations:
+%
+%%%%\begin{References}[99]
+%
+% For citations by author and year:
+%
+\begin{References}[99]
+%
+% Inside the References environment, use these lines if you are
+% using BibTeX.  Replace 'apalike' with the name of your style
+% if you are not using APA-like citations.  Replace FILE1, FILE2,
+% with the name(s) of your BibTeX database(s).
+%
+\bibliographystyle{apalike}
+\bibliography{./refs.bibtex}
+%
+% If you are not using BibTeX, comment out the two lines above,
+% and insert your references like this:
+%
+%%%%\begin{thebibliography}
+%%%%  \bibitem ...
+%%%%    ...
+%%%%\end{thebibliography}
+\end{References}
+\copyrightpage
+\end{document}
