@@ -38,18 +38,75 @@ def temp2tex(name):
     # make abstract
     for p in ('abstract',):
         v = cfg[p]
-        with open('./src/{}'.format(v), 'r') as fp:
+        root = os.path.join('.', 'src',)
+        convert_doc(root, p)
+
+        with open(os.path.join(root, '{}.txt'.format(v)), 'r') as fp:
             kw[p] = fp.read()
+
+    # make body
+    kw['body'] = make_body(cfg)
+    kw['appendix'] = make_appendix(cfg)
 
     o = './tex/{}.tex'.format(name)
     with open(o, 'w') as fp:
         fp.write(temp.format(**kw))
 
+def make_body(cfg):
+    btxt = ''
+    for ci, ts in cfg['body']:
+        root = os.path.join('.', 'src', ci)
+#         btxt += '\chapter{{{}}}\n'.format(ti)
 
+        for ti in ts:
+            if isinstance(ti, list):
+                for tii in ti:
+                    if isinstance(tii, list):
+                        for tiii in tii:
+                            btxt += make_section('subsection', tiii, root)
+                    else:
+                        btxt += make_section('section', tii, root)
+            else:
+                btxt += make_section('chapter', ti, root)
+
+    return btxt
+
+def make_appendix(cfg):
+    ap = cfg['appendices']
+    txt = '\\appendix\n'
+    for ti in ap:
+        txt += '\chapter{{{}}}\n'.format(ti)
+    return txt
+
+def make_section(tag, name, root):
+    body = ''
+    if '|' in name:
+        name, p = name.split('|')
+        convert_doc(root, p)
+#         docp = os.path.join(root, '{}.doc'.format(p))
+#         if os.path.isfile(docp):
+#             subprocess.call(['textutil', '-convert', 'txt', docp])
+
+        with open(os.path.join(root, '{}.txt'.format(p)), 'r') as fp:
+            body = fp.read()
+
+    txt = '\{}{{{}}}\n{}'.format(tag, name, body)
+    return txt
+
+def convert_doc(root, path):
+    docp = os.path.join(root, '{}.doc'.format(path))
+    if os.path.isfile(docp):
+        subprocess.call(['textutil', '-convert', 'txt', docp])
 
 if __name__ == '__main__':
     name = 'dissertation'
     temp2tex(name)
-#     rst2pdf(name)
+
+    os.chdir('./tex')
+#     print os.getcwd()
+#     subprocess.call(['make.sh'])
+
+
+
 
 

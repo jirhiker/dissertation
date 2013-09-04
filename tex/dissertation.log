@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 SEP 2013 17:18
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 SEP 2013 00:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**dissertation.tex
+**dissertation
 (./dissertation.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
@@ -85,30 +85,45 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 52.
  [1]
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 68.
+Missing character: There is no ‚ in font pplr7t!
+Missing character: There is no Ä in font pplr7t!
+Missing character: There is no ú in font pplr7t!
+Missing character: There is no ‚ in font pplr7t!
+Missing character: There is no Ä in font pplr7t!
+Missing character: There is no ù in font pplr7t!
+Missing character: There is no ‚ in font pplr7t!
+Missing character: There is no Ä in font pplr7t!
+Missing character: There is no ô in font pplr7t!
+Missing character: There is no ‚ in font pplr7t!
+Missing character: There is no Ä in font pplr7t!
+Missing character: There is no ô in font pplr7t!
+Missing character: There is no ¬ in font pplr7t!
+Missing character: There is no ± in font pplr7t!
  [2
 
 ]
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 74.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 76.
+ [3]
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 82.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 74.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 82.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 74.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 82.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 82.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -116,28 +131,32 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [2
 
 ]
-(./dissertation.toc)
+(./dissertation.toc
+Overfull \hbox (4.41158pt too wide) in paragraph at lines 16--16
+ [] []\OT1/ppl/b/n/12 DEVELOPMENT AND TEST-ING OF A LASER MI-CRO FUR-NACE FOR 
+ []
+
+[3
+
+])
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [3
-
-] (./dissertation.lot)
+ [4] (./dissertation.lot)
 \tf@lot=\write4
 \openout4 = `dissertation.lot'.
 
- [4
+ [5
 
 ] (./dissertation.lof)
 \tf@lof=\write5
 \openout5 = `dissertation.lof'.
 
- [5
-
-]
-[5
+ [6
 
 ] [6
+
+] [7
 
 
 ]
@@ -147,28 +166,62 @@ CHAPTER 1.
 
 
 ]
-No file dissertation.bbl.
+CHAPTER 2.
 [2
 
+
+] [3]
+CHAPTER 3.
+[4
+
+
+]
+CHAPTER 4.
+[5
+
+
+]
+APPENDIX A.
+[6
+
+
+
+]
+APPENDIX B.
+[7
+
+
+] (./dissertation.bbl
+Underfull \hbox (badness 1394) in paragraph at lines 50--54
+\OT1/ppl/m/n/12 nophyric gran-ite in the Fish Canyon Tuff, Col-orado: im-pli-ca
+-tions for
+ []
+
+[8
+
+
+
+]) [9] [10
 
 
 ] (./dissertation.aux) ) 
 Here is how much of TeX's memory you used:
- 883 strings out of 493633
- 10863 string characters out of 3143378
- 58675 words of memory out of 3000000
- 4214 multiletter control sequences out of 15000+200000
- 21545 words of font info for 56 fonts, out of 3000000 for 9000
+ 924 strings out of 493633
+ 11709 string characters out of 3143378
+ 61675 words of memory out of 3000000
+ 4251 multiletter control sequences out of 15000+200000
+ 22610 words of font info for 58 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 24i,8n,19p,191b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,8n,20p,974b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/bas
 e/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplb8a.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
-/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on dissertation.pdf (11 pages, 58908 bytes).
+/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on dissertation.pdf (21 pages, 84466 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -35,7 +35,7 @@
 %
 % Number of people on your committee include chair(s)
 %
-\committeesize{{5}}
+\committeesize{committee_size}
 %================================================================
 \begin{{document}}
 %
@@ -91,20 +91,12 @@
 {preface}
 \end{{preface}}
 %================================================================
-% Body of the document.   Use one of these commands to start each
-% chapter:
-%   \chapter{{FIRST CHAPTER TITLE}}
-%   \chapter[FIRST SHORT TITLE]{{FULL LENGTH CHAPTER TITLE}}
-% If you have appendices, use these commands:
-%   \appendix
-%   \chapter{{FIRST APPENDIX TITLE}}
-%     ...
-%   \chapter{{SECOND APPENDIX TITLE}}
-%     ...
-%----------------------------------------------------------------
-\chapter{{FIRST CHAPTER TITLE}}
+
+{body}
+{appendix}
 
 
+\nocite{{*}} %% adds all references in bib files to ref list
 
 %================================================================
 % References section.  Uncomment one of the next two commands,
@@ -126,14 +118,6 @@
 %
 \bibliographystyle{{apalike}}
 \bibliography{refs}
-%
-% If you are not using BibTeX, comment out the two lines above,
-% and insert your references like this:
-%
-%%%%\begin{{thebibliography}}
-%%%%  \bibitem ...
-%%%%    ...
-%%%%\end{{thebibliography}}
 \end{{References}}
 \copyrightpage
 \end{{document}}

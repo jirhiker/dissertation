@@ -1,4 +1,23 @@
-\contentsline {chapter}{\MakeUppercase {LIST OF TABLES}}{iv}
-\contentsline {chapter}{\MakeUppercase {LIST OF FIGURES}}{v}
-\contentsline {chapter}{\MakeUppercase {PREFACE}}{vi}
-\contentsline {chapter}{\numberline {1.}\MakeUppercase {FIRST CHAPTER TITLE}}{1}
+\contentsline {chapter}{\MakeUppercase {LIST OF TABLES}}{v}
+\contentsline {chapter}{\MakeUppercase {LIST OF FIGURES}}{vi}
+\contentsline {chapter}{\MakeUppercase {PREFACE}}{vii}
+\contentsline {chapter}{\numberline {1.}\MakeUppercase {Andrill}}{1}
+\contentsline {chapter}{\numberline {2.}\MakeUppercase {Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica}}{2}
+\contentsline {section}{\numberline {2.1}Introduction}{2}
+\contentsline {section}{\numberline {2.2}Geology}{2}
+\contentsline {subsection}{\numberline {2.2.1}Volcanic}{2}
+\contentsline {subsection}{\numberline {2.2.2}Glacial}{2}
+\contentsline {section}{\numberline {2.3}Methods}{3}
+\contentsline {subsection}{\numberline {2.3.1}Ar-Ar}{3}
+\contentsline {section}{\numberline {2.4}Results}{3}
+\contentsline {subsection}{\numberline {2.4.1}Ar-Ar Laser Fusion}{3}
+\contentsline {subsection}{\numberline {2.4.2}Ar-Ar Step Heating}{3}
+\contentsline {section}{\numberline {2.5}Discussion}{3}
+\contentsline {chapter}{\numberline {3.}\MakeUppercase {Development and Testing of a laser micro furnace for Ar-Ar analysis}}{4}
+\contentsline {section}{\numberline {3.1}Design}{4}
+\contentsline {section}{\numberline {3.2}Testing}{4}
+\contentsline {section}{\numberline {3.3}Preliminary Results}{4}
+\contentsline {chapter}{\numberline {4.}\MakeUppercase {Pychron: Noble gas data acquisition and processing framework}}{5}
+\contentsline {chapter}{\numberline {A.}\MakeUppercase {Ar-Ar data}}{6}
+\contentsline {chapter}{\numberline {B.}\MakeUppercase {Electron Microprobe data}}{7}
+\contentsline {chapter}{\MakeUppercase {REFERENCES}}{8}

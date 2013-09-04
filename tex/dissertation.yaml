@@ -5,11 +5,54 @@ degree: Doctor of Philosophy
  
 grad_date: April, 2014
 chair: William C. McIntosh
+committee_size: 5
 
 dedication: To my arrow... 
-refs: ./refs.bibtex
+refs: andrill,minna_bluff,diode,pychron
 
-abstract: abstract.txt
+abstract: abstract
 keywords: A; B; C
 acknowledgments: Foo
 preface: Foo
+
+
+body:
+ - 
+  - andrill
+  - 
+    - Andrill
+ - 
+  - minna_bluff 
+  -
+   - "Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica"
+   -
+    - Introduction|intro
+    - Geology
+    -
+     - Volcanic|volcanic
+     - Glacial|glacial
+    - Methods
+    -
+     - Ar-Ar
+    - Results
+    -
+     - Ar-Ar Laser Fusion
+     - Ar-Ar Step Heating
+    - Discussion
+ - 
+  - diode
+  - 
+   - Development and Testing of a laser micro furnace for Ar-Ar analysis
+   - 
+    - Design
+    - Testing
+    - Preliminary Results
+ - 
+  - pychron
+  -
+   - "Pychron: Noble gas data acquisition and processing framework"
+   
+appendices:
+ - Ar-Ar data
+ - Electron Microprobe data
+  
