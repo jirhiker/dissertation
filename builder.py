@@ -24,11 +24,11 @@ import yaml
 import subprocess
 import os
 def temp2tex(name):
-    p = './tex/{}.temp'.format(name)
+    p=os.path.join('.','src','template.txt')
     with open(p, 'r') as fp:
         temp = fp.read()
 
-    c = './tex/{}.yaml'.format(name)
+    c=os.path.join('.','src','config.yaml')
     with open(c, 'r') as fp:
         cfg = yaml.load(fp)
     kw = {}
@@ -54,6 +54,7 @@ def temp2tex(name):
 
 def make_body(cfg):
     btxt = ''
+    texroot=os.path.join('.','tex')
     for ci, ts in cfg['body']:
         root = os.path.join('.', 'src', ci)
 #         btxt += '\chapter{{{}}}\n'.format(ti)
@@ -68,7 +69,14 @@ def make_body(cfg):
                         btxt += make_section('section', tii, root)
             else:
                 btxt += make_section('chapter', ti, root)
-
+        
+        #copy bib files to tex dir
+        for p in os.paths.listdir(root):
+            if p.endswith('.bib'):
+                shutil.copyfile(os.path.join(root, p),
+                                os.path.join(texroot, p)
+                                )
+        
     return btxt
 
 def make_appendix(cfg):
