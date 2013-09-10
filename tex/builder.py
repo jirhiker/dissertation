@@ -23,12 +23,15 @@
 import yaml
 import subprocess
 import os
+import shutil
+
 def temp2tex(name):
-    p=os.path.join('.','src','template.txt')
+    src=os.path.join('..','src')
+    p=os.path.join(src,'template.txt')
     with open(p, 'r') as fp:
         temp = fp.read()
 
-    c=os.path.join('.','src','config.yaml')
+    c=os.path.join(src,'config.yaml')
     with open(c, 'r') as fp:
         cfg = yaml.load(fp)
     kw = {}
@@ -38,7 +41,7 @@ def temp2tex(name):
     # make abstract
     for p in ('abstract',):
         v = cfg[p]
-        root = os.path.join('.', 'src',)
+        root = os.path.join(src, 'data')
         convert_doc(root, p)
 
         with open(os.path.join(root, '{}.txt'.format(v)), 'r') as fp:
@@ -48,15 +51,16 @@ def temp2tex(name):
     kw['body'] = make_body(cfg)
     kw['appendix'] = make_appendix(cfg)
 
-    o = './tex/{}.tex'.format(name)
+    o=os.path.join('..','tex','{}.tex'.format(name))
+#     o = './tex/{}.tex'.format(name)
     with open(o, 'w') as fp:
         fp.write(temp.format(**kw))
 
 def make_body(cfg):
     btxt = ''
-    texroot=os.path.join('.','tex')
+    texroot=os.path.join('..','tex')
     for ci, ts in cfg['body']:
-        root = os.path.join('.', 'src', ci)
+        root = os.path.join('..', 'src', 'data', ci)
 #         btxt += '\chapter{{{}}}\n'.format(ti)
 
         for ti in ts:
@@ -71,7 +75,8 @@ def make_body(cfg):
                 btxt += make_section('chapter', ti, root)
         
         #copy bib files to tex dir
-        for p in os.paths.listdir(root):
+        for p in os.listdir(root):
+#         for p in os.path.listdir(root):
             if p.endswith('.bib'):
                 shutil.copyfile(os.path.join(root, p),
                                 os.path.join(texroot, p)
@@ -104,13 +109,14 @@ def make_section(tag, name, root):
 def convert_doc(root, path):
     docp = os.path.join(root, '{}.doc'.format(path))
     if os.path.isfile(docp):
+        print 'converting {} to text'.format(docp)
         subprocess.call(['textutil', '-convert', 'txt', docp])
 
 if __name__ == '__main__':
     name = 'dissertation'
     temp2tex(name)
 
-    os.chdir('./tex')
+#     os.chdir('./tex')
 #     print os.getcwd()
 #     subprocess.call(['make.sh'])
 

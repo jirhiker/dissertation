@@ -1,7 +1,7 @@
 \contentsline {chapter}{\MakeUppercase {LIST OF TABLES}}{v}
 \contentsline {chapter}{\MakeUppercase {LIST OF FIGURES}}{vi}
 \contentsline {chapter}{\MakeUppercase {PREFACE}}{vii}
-\contentsline {chapter}{\numberline {1.}\MakeUppercase {Andrill}}{1}
+\contentsline {chapter}{\numberline {1.}\MakeUppercase {Development of an age-depth model for ANDRILL MIS AND-1B drill core, McMurdo Sound, Antarctica}}{1}
 \contentsline {chapter}{\numberline {2.}\MakeUppercase {Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica}}{2}
 \contentsline {section}{\numberline {2.1}Introduction}{2}
 \contentsline {section}{\numberline {2.2}Geology}{2}

@@ -13,6 +13,9 @@
 % Use the NMT 2013 thesis style
 %
 \usepackage{{nmtthesis2013}}
+\usepackage{{pdfpages}}
+
+
 %
 % Select the type of publication, one of these three.
 %
