@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 SEP 2013 23:03
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 SEP 2013 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -142,7 +142,10 @@ File: pppdftex.def 2011/03/10 v0.4n Pdfpages driver for pdfTeX (AM)
 )
 (./dissertation.aux
 
-LaTeX Warning: Label `foo3' multiply defined.
+LaTeX Warning: Label `foo1' multiply defined.
+
+
+LaTeX Warning: Label `foo1' multiply defined.
 
 )
 \openout1 = `dissertation.aux'.
@@ -236,6 +239,40 @@ Missing character: There is no ú in font pplr7t!
 Missing character: There is no ‚ in font pplr7t!
 Missing character: There is no Ä in font pplr7t!
 Missing character: There is no ù in font pplr7t!
+ [2
+
+]
+<../src/data/minna_bluff/tables/table.pdf, id=17, page=1, 794.97pt x 614.295pt>
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 70.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 70.
+(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 70.
+(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 70.
+(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 70.
+(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
+ [3 <../src/data/minna_bluff/tables/table.pdf>]
 Missing character: There is no ‚ in font pplr7t!
 Missing character: There is no Ä in font pplr7t!
 Missing character: There is no ô in font pplr7t!
@@ -244,123 +281,91 @@ Missing character: There is no Ä in font pplr7t!
 Missing character: There is no ô in font pplr7t!
 Missing character: There is no ¬ in font pplr7t!
 Missing character: There is no ± in font pplr7t!
- [2
+ [4]
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-] [3] <table.pdf, id=20, page=1, 794.97pt x 614.295pt>
-File: table.pdf Graphic file (type pdf)
-
-<use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 75.
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 77.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 75.
-(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 75.
-(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 75.
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 77.
 (pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 75.
-(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
- [4 <./table.pdf>]
-File: table.pdf Graphic file (type pdf)
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 77.
-(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 77.
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 77.
 (pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 77.
-(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 77.
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 77.
 (pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 77.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 77.
 (pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
  [5]
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 79.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
+
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 79.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-File: table.pdf Graphic file (type pdf)
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 79.
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 79.
 (pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 79.
-(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
- <use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 79.
-(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
-File: table.pdf Graphic file (type pdf)
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use table.pdf, page 1>
-Package pdftex.def Info: table.pdf, page1 used on input line 79.
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 79.
 (pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
- [6] <figure.pdf, id=42, page=1, 614.295pt x 794.97pt>
-File: figure.pdf Graphic file (type pdf)
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use figure.pdf, page 1>
-Package pdftex.def Info: figure.pdf, page1 used on input line 81.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: figure.pdf Graphic file (type pdf)
- <use figure.pdf, page 1>
-Package pdftex.def Info: figure.pdf, page1 used on input line 81.
-(pdftex.def)             Requested size: 469.66231pt x 607.7983pt.
-File: figure.pdf Graphic file (type pdf)
- <use figure.pdf, page 1>
-Package pdftex.def Info: figure.pdf, page1 used on input line 81.
-(pdftex.def)             Requested size: 469.66231pt x 607.7983pt.
-File: figure.pdf Graphic file (type pdf)
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 79.
+(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
+File: ../src/data/minna_bluff/tables/table.pdf Graphic file (type pdf)
 
-<use figure.pdf, page 1>
-Package pdftex.def Info: figure.pdf, page1 used on input line 81.
-(pdftex.def)             Requested size: 469.66231pt x 607.7983pt.
-File: figure.pdf Graphic file (type pdf)
- <use figure.pdf, page 1>
-Package pdftex.def Info: figure.pdf, page1 used on input line 81.
-(pdftex.def)             Requested size: 469.66231pt x 607.7983pt.
- [7 <./figure.pdf>]
+<use ../src/data/minna_bluff/tables/table.pdf, page 1>
+Package pdftex.def Info: ../src/data/minna_bluff/tables/table.pdf, page1 used o
+n input line 79.
+(pdftex.def)             Requested size: 785.99167pt x 607.35718pt.
+ [6]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 87.
- [8]
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 93.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 84.
+ [7]
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 90.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 93.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 90.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 93.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 90.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 93.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 90.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -447,22 +452,22 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3331 strings out of 493633
- 47055 string characters out of 3143378
- 113966 words of memory out of 3000000
- 6568 multiletter control sequences out of 15000+200000
+ 3325 strings out of 493633
+ 47116 string characters out of 3143378
+ 113948 words of memory out of 3000000
+ 6562 multiletter control sequences out of 15000+200000
  22610 words of font info for 58 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 40i,18n,46p,974b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,18n,46p,974b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2011/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2011/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on dissertation.pdf (26 pages, 105793 bytes).
+Output written on dissertation.pdf (25 pages, 89008 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -23,7 +23,6 @@
 import yaml
 import subprocess
 import os
-import shutil
 
 def temp2tex(name):
     src=os.path.join('..','src')
@@ -73,15 +72,7 @@ def make_body(cfg):
                         btxt += make_section('section', tii, root)
             else:
                 btxt += make_section('chapter', ti, root)
-        
-        #copy bib files to tex dir
-        for p in os.listdir(root):
-#         for p in os.path.listdir(root):
-            if p.endswith('.bib'):
-                shutil.copyfile(os.path.join(root, p),
-                                os.path.join(texroot, p)
-                                )
-        
+                
     return btxt
 
 def make_appendix(cfg):

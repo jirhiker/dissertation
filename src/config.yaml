@@ -8,13 +8,16 @@ chair: William C. McIntosh
 committee_size: 5
 
 dedication: To my arrow... 
-refs: andrill,minna_bluff,diode,pychron
+refs: ../src/data/andrill/andrill, 
+ ../src/data/minna_bluff/minna_bluff,
+ ../src/data/diode/pychron,
+ ../src/data/pychron/pychron
 
 abstract: abstract
-keywords: A; B; C
-acknowledgments: Foo
-preface: Foo
+keywords: Antarctica; Ar-Ar geochronology; Python
 
+acknowledgments: Argon Lab, advisors. 
+preface: Foo
 
 body:
  - 
