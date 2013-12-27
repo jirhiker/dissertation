@@ -23,15 +23,18 @@ projects:
   
 blank_fit_isotopes:
   - name: Ar40
-    fit: preceeding
+    fit: user
   - name: Ar39
-    fit: preceeding
+    fit: user
   - name: Ar38
-    fit: preceeding
+    fit: user
   - name: Ar37
-    fit: preceeding
+    fit: user
   - name: Ar36
-    fit: preceeding
+    fit: user
+    
+save_figures: True
+figure_root: /Users/ross/Programming/git/dissertation/data/minnabluff/figures/unknowns/blanks
     
 ---
 #=========================================================================================
