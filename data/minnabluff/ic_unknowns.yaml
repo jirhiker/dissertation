@@ -29,8 +29,7 @@ identifiers:
 #- 61598
 #- 61599
 #- 61600
-
-#- 61601 #problem
+- 61601 #problem
 #- 61602
 #- 61607 #problem
 #- 61608 
@@ -40,8 +39,8 @@ identifiers:
 #- 61606
 #- 61609 #problem
 #- 61610
-- 61611
-- 61612
+#- 61611
+#- 61612
 
 atype: air
 save_figures: true
