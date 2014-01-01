@@ -1,0 +1,53 @@
+Pychron features
+
+- Plugin framework
+- Distributed Control
+    - custom RPC interface
+    
+- Hardware
+  - Lasers
+  - Serial/Ethernet Devices
+  - Continuous recording to database
+  - Valve Control
+    - color change extraction line canvas
+    - flexible layout definition
+  - Spectrometer
+    - ArgusVI vi RCS
+    - Mag Cal
+    - Peak Center/Coincidence
+    - Strip-chart recording view
+    - Uses an empirically determined magnet-field table for positioning
+    
+- Data Collection
+    - Experiment Writer
+    - Execute hundreds of automated runs
+    - multicollect and peak hop
+    - PyScripts
+        - use augmented python scripts to define extraction and measurement procedures
+        - can do anything python can e.g if/else, for, which, def, ... etc. plus pychron
+          specific commands such as open, close, sleep, peak_center, ... etc
+        
+- Processing
+  - Tables
+      - Summary, Appendix tables
+      - PDF,XLS,CSV export
+      - Renne 2004 Data Reporting norms
+  - Figures
+      - Stacked auxiliary plots
+      - Ideogram, Spectrum, Inv. Isochron,  Time Series
+  - Auto associated blanks/airs/cocktails
+  - GIS
+    - export shape files  
+    
+- Database
+  - Project, Sample, Irradiation entry
+
+- VCS
+    - uses git to track changes to data
+    - branch, merge, share, changes
+    
+- MassSpec
+    - import/export from/to MassSpec database
+    - import MassSpec flat files
+    - save analyses to pychron and massspec databases automatically
+    

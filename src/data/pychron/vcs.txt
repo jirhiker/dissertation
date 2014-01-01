@@ -1,0 +1,4 @@
+Pychron uses the VCS paradigm from software development for managing changes to data.
+GIT is used as a backend to manage changes to line-oriented analysis data files. 
+A relational database (MySQL or SQLite if working offline) is used to manage analysis metadata.
+The MySQL database also contains the original raw data stored during data collection.

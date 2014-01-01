@@ -1,0 +1,7 @@
+Pychron can interface with multiple database backends- any database supported by the
+SQLAlchemy framework. 
+
+Typically a centralized server is used to host a MySQL database and the GIT repositories.
+
+The necessary information is downloaded on demand to the a users machine facilitating
+data processing when not connected. 
