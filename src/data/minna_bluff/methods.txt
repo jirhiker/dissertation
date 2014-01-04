@@ -1,0 +1,29 @@
+ArAr
+    ar-ar analyses conducted at New Mexico geochronology research laboratory (NMGRL)
+analyses measured with 3 different mass spectrometers. most analyses measured using a MAP-215-50
+additional analyses where measured using one of two new next generation Thermo Argus VI mass
+spectrometers.
+
+Irradiation
+    Samples irradiated in X separate irradiations. Irradiations was performed at X. See table for 
+irradiation details.
+
+MAP Details
+    dual collector (faraday and analog multiplier) instrument operated in "peak hop" mode
+typical map laser and furnace blanks range from X to X
+    
+ArgusVI Details
+    six collector instrument, 5 high gain faradays and 1 ion counting multiplier. 
+All Ar isotopes measured in "multicollect" mode, i.e isotopes measured simultaneously. 
+typical map laser and furnace blanks range from X to X
+
+Software
+    Data Collection
+        Automated data collection was accomplished using first Mass Spec then Pychron.
+        see chapter 4 for detailed discussion of Pychron.
+    
+    Data Reduction
+        Raw isotopic data was processed using the Pychron software suite. 
+    
+
+
