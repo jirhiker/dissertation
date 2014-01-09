@@ -1,0 +1,10 @@
+id,"name","kind","make","model"
+1,"Fusions CO2","10.6um co2","photon machines",NULL
+2,"Fusions Diode","810nm diode","photon machines",NULL
+3,"Fusions UV","193nm eximer","photon machines",NULL
+5,"CO2",NULL,NULL,NULL
+6,"Eurotherm",NULL,NULL,NULL
+7,"Furnace",NULL,NULL,NULL
+8,"Pychron Diode",NULL,NULL,NULL
+9,"Pychron CO2",NULL,NULL,NULL
+10,"Generic HD",NULL,NULL,NULL
