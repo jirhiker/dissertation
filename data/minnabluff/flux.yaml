@@ -55,9 +55,9 @@ levels:
 #- NM-220 M
 #- NM-220 N
 #- NM-220 O
-- NM-222 A
-- NM-222 B
-- NM-222 C
-- NM-222 D
-#- NM-256 E
-#- NM-256 F
+#- NM-222 A
+#- NM-222 B
+#- NM-222 C
+#- NM-222 D
+- NM-256 E
+- NM-256 F
