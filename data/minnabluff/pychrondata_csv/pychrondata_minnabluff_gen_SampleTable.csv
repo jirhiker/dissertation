@@ -64,7 +64,6 @@ id,"name","alt_name",material_id,project_id,"location",lat,long,elevation,"igsn"
 84,"MB07-027",NULL,3,4,"HH",-78.5614166667,166.941,824,"","dome trachyte",""
 85,"MB07-073",NULL,3,4,"HH",-78.5109722222,166.062833333,636,"","light grey lava",""
 86,"MB07-119",NULL,3,4,"15",-78.6488055556,167.100638889,581,"","dense lava overlying cinder sequence",""
-87,"FC-2",NULL,8,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 88,"MB07-121",NULL,3,4,"15",-78.6491111111,167.108777778,659,"","dense xtal rich lava at top of section ",""
 89,"MB07-141",NULL,3,4,"49",-78.58775,166.946527778,477,"","dense lava flow >15m thick",""
 90,"MB07-177",NULL,3,4,"HH",-78.5920555556,167.051361111,0,"","xtal poor mafic flow banded lava above dome",""
