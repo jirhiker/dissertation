@@ -39,20 +39,133 @@
 # Sensitivity
 #=========================================================================================
  
-projects:
+project:
  - Minna Bluff
  
 mass_spectrometers:
  - name: nmgrl map
-   devices:
-        - name: Furnace
-          sensitivity: 1e-7
-          sensitivity_error: 0
-          start: 01-01-2006
-          end: 01-01-2014
-        - name: CO2
-          sensitivity: 1e-7
-          sensitivity_error: 0
-          start: 01-01-2006
-          end: 01-01-2014
-        
+   dates:
+   - start: 07-23-2007
+     end:   08-06-2007
+     furnace: 6.6967e-17
+     co2:     3.84e-17
+   - start: 08-06-2007
+     end:   08-09-2007
+     furnace: 7.1685e-17
+     co2:     4.11e-17
+   - start: 08-13-2007
+     end:   08-25-2007
+     furnace: 8.5267e-17
+     co2:     4.36e-17
+   - start: 09-04-2007
+     end:   09-09-2007
+     furnace: 8.8385e-17
+     co2:     4.52e-17
+   - start: 09-09-2007
+     end:   09-12-2007
+     furnace: 9.07976e-17
+     co2:     4.65e-17
+   - start: 09-12-2007
+     end:   09-17-2007
+     furnace: 8.886e-17
+     co2:     4.55e-17
+   - start: 09-17-2007
+     end:   09-26-2007
+     furnace: 8.9333e-17
+     co2:     4.57e-17
+   - start: 09-28-2007
+     end:   10-02-2007
+     furnace: 8.3852e-17
+     co2:     4.29e-17
+   - start: 10-02-2007
+     end:   10-06-2007
+     furnace: 8.4939e-17
+     co2:     4.35e-17
+   - start: 04-05-2008
+     end:   05-20-2008
+     furnace: 1.05e-16
+     co2:     5.37e-17
+   - start: 06-18-2008
+     end:   06-21-2008
+     furnace: 9.68e-16
+     co2:     4.95e-17
+   - start: 06-21-2008
+     end:   06-24-2008
+     furnace: 9.67e-16
+     co2:     4.95e-17
+   - start: 06-24-2008
+     end:   06-27-2008
+     furnace: 9.84e-16
+     co2:     5.04e-17
+   - start: 06-27-2008
+     end:   07-06-2008
+     furnace: 9.83e-16
+     co2:     5.03e-17
+   - start: 07-06-2008
+     end:   07-11-2008
+     furnace: 1.00e-16
+     co2:     5.12e-17
+   - start: 09-05-2008
+     end:   09-10-2008
+     furnace: 1.07e-16
+     co2:     5.48e-17
+   - start: 09-21-2008
+     end:   09-27-2008
+     furnace: 1.11e-16
+     co2:     5.66e-17
+   - start: 9-27-2008
+     end:   10-09-2008
+     furnace: 1.11e-16
+     co2:     5.70e-17
+   - start: 10-09-2008
+     end:   10-15-2008
+     furnace: 1.17e-16
+     co2:     5.96e-17
+   - start: 01-24-2009
+     end:   01-28-2009
+     furnace: 6.38e-17
+     co2:     2.97e-17
+   - start: 01-28-2009
+     end:   02-04-2009
+     furnace: 6.48e-17
+     co2:     3.01e-17
+   - start: 02-04-2009
+     end:   02-14-2009
+     furnace: 6.52e-17
+     co2:     3.03e-17
+   - start: 02-14-2009
+     end:   02-26-2009
+     furnace: 6.67e-17
+     co2:     3.10e-17
+   - start: 03-02-2009
+     end:   03-07-2009
+     furnace: 6.73e-17
+     co2:     3.13e-17
+   - start: 03-07-2009
+     end:   03-27-2009
+     furnace: 6.99e-17
+     co2:     3.25e-17
+   - start: 04-14-2009
+     end:   04-16-2009
+     furnace: 8.13e-17
+     co2:     3.78e-17
+   - start: 06-17-2009
+     end:   07-03-2009
+     furnace: 8.29e-17
+     co2:     3.86e-17
+   - start: 07-03-2009
+     end:   07-08-2009
+     furnace: 9.46e-17
+     co2:     4.40e-17
+   - start: 07-08-2009
+     end:   07-23-2009
+     furnace: 9.53e-17
+     co2:     4.43e-17
+   - start: 08-24-2009
+     end:   08-30-2009
+     furnace: 1.12e-16
+     co2:     5.22e-17
+   - start: 08-30-2009
+     end:   09-03-2009
+     furnace: 1.04e-16
+     co2:     4.82e-17
