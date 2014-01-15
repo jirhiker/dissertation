@@ -58,23 +58,37 @@ def temp2tex(name):
 def make_body(cfg):
     btxt = ''
     texroot=os.path.join('..','tex')
-    for ci, ts in cfg['body']:
-        root = os.path.join('..', 'src', 'data', ci)
-#         btxt += '\chapter{{{}}}\n'.format(ti)
-
-        for ti in ts:
-            if isinstance(ti, list):
-                for tii in ti:
-                    if isinstance(tii, list):
-                        for tiii in tii:
-                            btxt += make_section('subsection', tiii, root)
-                    else:
-                        btxt += make_section('section', tii, root)
-            else:
-                btxt += make_section('chapter', ti, root)
-                
+    root = os.path.join('..', 'src', 'data')
+    for chapter in cfg['body']['chapters']:
+        btxt+=make_chapter(chapter, root)                
     return btxt
+    
+def make_chapter(chapter, root):
+    root=os.path.join(root, chapter['root'])
+    btxt=make_section('chapter', chapter['title'], root)
+    sec=None
+    if chapter.has_key('sections'):
+        sec=chapter['sections']
 
+    if sec:
+        for section in sec:
+            btxt+=make_section('section', section['title'], root)
+            subsec=None
+            if section.has_key('subsections'):
+                subsec=section['subsections']
+                
+            if subsec:
+                for subsection in subsec:
+                    btxt+=make_section('subsection', subsection['title'], root)
+                    subsubsec=None
+                    if subsection.has_key('subsubsections'):
+                        subsubsec=subsection['subsubsections']
+                    if subsubsec:
+                        for subsubsection in subsubsec:
+                            btxt+=make_section('subsubsection', subsubsection['title'], root)
+                    
+    return btxt
+    
 def make_appendix(cfg):
     ap = cfg['appendices']
     txt = '\\appendix\n'
@@ -87,9 +101,6 @@ def make_section(tag, name, root):
     if '|' in name:
         name, p = name.split('|')
         convert_doc(root, p)
-#         docp = os.path.join(root, '{}.doc'.format(p))
-#         if os.path.isfile(docp):
-#             subprocess.call(['textutil', '-convert', 'txt', docp])
 
         with open(os.path.join(root, '{}.txt'.format(p)), 'r') as fp:
             body = fp.read()

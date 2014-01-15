@@ -1,0 +1,5 @@
+#add pdf table
+\includepdf[pages={-}, landscape=true, addtolist={1, table, Table 1., foo1}]{../src/data/minna_bluff/tables/table.pdf}
+
+#add reference
+\cite{Jourdan:2007vi}

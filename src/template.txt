@@ -76,6 +76,7 @@
 
 \end{{acknowledgments}}
 %----------------------------------------------------------------
+\setcounter{{tocdepth}}{{4}}
 \tableofcontents
 %
 % If you have no tables, comment out \listoftables.

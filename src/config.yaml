@@ -20,40 +20,109 @@ acknowledgments: Argon Lab, advisors.
 preface: Foo
 
 body:
- - 
-  - andrill
-  - 
-    - "Development of an age-depth model for ANDRILL MIS AND-1B drill core, McMurdo Sound, Antarctica"
- - 
-  - minna_bluff 
-  -
-   - "Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica"
-   -
-    - Introduction|intro
-    - Geology
+ chapters:
     -
-     - Volcanic|volcanic
-     - Glacial|glacial
-    - Methods
+      title: "Development of an age-depth model for ANDRILL MIS AND-1B drill core, McMurdo Sound, Antarctica"
+      root: 'andrill'
+      sections:
+    - 
+      title: "Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica"
+      root: 'minna_bluff'
+      sections:
+         - 
+            title: Introduction|intro
+         - 
+            title: Geology
+            subsections:
+            -
+                title: Volcanic|volcanic
+                subsubsections:
+                -
+                    title: Felsic
+                -
+                    title: Basaltic
+            -
+                title: Glacial|glacial
+         -
+            title: Methods
+            subsections:
+            -
+                title: Ar-Ar
+            -
+                title: Electron Microprobe
+         -
+            title: Results
+         -
+            title: Discussion
     -
-     - Ar-Ar
-    - Results
+        title: "Development and Testing of a laser micro furnace for Ar-Ar analysis"
+        root: diode
+        sections:
+            -
+                title: Design
+            -
+                title: Testing
+            - 
+                title: Preliminary Results
+                
     -
-     - Ar-Ar Laser Fusion
-     - Ar-Ar Step Heating
-    - Discussion
- - 
-  - diode
-  - 
-   - "Development and Testing of a laser micro furnace for Ar-Ar analysis"
-   - 
-    - Design
-    - Testing
-    - Preliminary Results
- - 
-  - pychron
-  -
-   - "Pychron: Noble gas data acquisition and processing framework"
+        title: "Pychron: Noble gas data acquisition and processing framework"
+        root: pychron
+        sections:
+            - 
+                title: Hardware
+                subsections:
+                    - 
+                        title: Extraction Line
+                    -
+                        title: Lasers
+                    - 
+                        title: Mass Spectrometers
+                    
+            -   
+                title: Software
+            -   
+                title: Data Storage
+      
+#body:
+# - 
+#  - andrill
+#  - 
+#    - "Development of an age-depth model for ANDRILL MIS AND-1B drill core, McMurdo Sound, Antarctica"
+# - 
+#  - minna_bluff 
+#  -
+#   - "Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica"
+#   -
+#    - Introduction|intro
+#    - Geology
+#    -
+#     - Volcanic|volcanic
+#     - Glacial|glacial
+#    - Methods
+#    -
+#     - Ar-Ar
+#    - Results
+#    -
+#     - Phase 1.
+#        - Ar-Ar Laser Fusion
+#        - Ar-Ar Step Heating
+#     - Phase 2.
+#        - Ar-Ar Laser Fusion
+#        - Ar-Ar Step Heating
+#    - Discussion
+# - 
+#  - diode
+#  - 
+#   - "Development and Testing of a laser micro furnace for Ar-Ar analysis"
+#   - 
+#    - Design
+#    - Testing
+#    - Preliminary Results
+# - 
+#  - pychron
+#  -
+#   - "Pychron: Noble gas data acquisition and processing framework"
    
 appendices:
  - Ar-Ar data
