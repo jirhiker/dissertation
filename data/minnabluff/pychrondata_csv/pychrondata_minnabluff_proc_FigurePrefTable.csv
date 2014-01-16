@@ -11971,3 +11971,6339 @@ ytick_font_size: 10
 ytitle_font_name: modern
 ytitle_font_size: 12
 ","spec"
+485,485,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 80.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-200.0, 1200.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-14.330270699529542, 157.63297769482494]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+486,486,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 70.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 50.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-3.024918823000947, 15.210460856205994]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+487,487,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 12.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 14.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-29.76259829691627, 57.06847084869924]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+488,488,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 120.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 14.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-15.728814487947401, 14.086332470322505]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+489,489,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 30.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [4.641912314826255, 9.166746407971921]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+490,490,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 9.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.9626357756377373, 13.697975746640859]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+491,491,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 30.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 20.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-15.464993077101663, 30.431780503853815]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+492,492,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-180.0, 20.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-24.817703680346916, 59.824641471896605]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+493,493,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 20.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-14.0, 34.0]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+494,494,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 110.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 70.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [5.765151370865973, 11.558036482525633]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+495,495,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 6.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-59.450355464265854, 79.38379127309726]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+496,496,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 16.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.10415738165818622, 27.18298122062641]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+497,497,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2000.0, 14000.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-6.290081276734022, 51.99770596314623]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+498,498,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 120.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-200.0, 200.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-22.852382377552633, 23.950983027396784]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+499,499,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-600.0, 100.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-24.814761869742846, 13.338265368386153]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+500,500,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-30.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-62.14781448735296, 65.28298411795134]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+501,501,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-120.0, 80.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2000.0, 2000.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-19.085649587224815, 79.75483960672054]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+502,502,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 120.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-14.0, 34.0]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+503,503,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-100.0, 600.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-55.32058648814194, 26.84732604437654]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+504,504,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-200.0, 400.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-14.074648565955652, 20.106621117322256]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+505,505,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 70.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-30.02283086019414, 48.715881454673564]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+506,506,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 120.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-300.0, 200.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-66.2824443997855, 27.84385858179868]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+507,507,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 120.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-7.0, 1.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-29.900143532746583, 51.37747723197202]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+508,508,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-80.0, 60.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [1.2470706702663712, 16.86088490515811]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+509,509,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 80.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-400.0, 100.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [1.472518751861207, 10.585594655745348]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+510,510,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 80.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-600.0, 100.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-5.0, 55.0]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+511,511,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 18.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 40.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-0.12980026612321938, 13.44050634095607]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+512,512,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 20.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 80.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.581828054291142, 20.639663516267895]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+513,513,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 70.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-12.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-7.763569573785059, 13.399265311635647]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+514,514,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-600.0, 100.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-4.7633285038392845, 10.43307461762317]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+515,515,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 50.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 20.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-6.291743599285757, 11.48106759993507]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+516,516,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-40.0, 30.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-0.03224270365470394, 9.821112973059519]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+517,517,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 70.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 12.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-7.559863961635907, 7.263488426269047]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+518,518,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 160.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-4.339552985529516, 47.735082840824674]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+519,519,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 120.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.2, 0.8]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [5.804702507616802, 20.148272416215182]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+520,520,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 30.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 40.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [2.98324963456842, 13.600011656934985]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+521,521,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-200.0, 20.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.6681295380121395, 18.349424918133533]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+522,522,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 80.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-200.0, 300.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-11.432466362109725, 125.75712998320697]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+523,523,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1200.0, 400.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 30.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-26.08341199856356, 8.916673818051233]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+524,524,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-12.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-22.349163446502555, 12.94083304059114]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+525,525,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 70.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 30.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [1.118223449928962, 35.69954205078142]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+526,526,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 30.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [1.2444185886316939, 19.487254344880146]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+527,527,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 30.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-40.0, 50.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-287.0212627228319, 53.22619186275679]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+528,528,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 20.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-30.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-116.23209087501868, 46.042989331491604]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+529,529,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 50.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.545344353306575, 115.99878788637231]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+530,530,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-60.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 100.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-151.69142097686395, 35.60831099789672]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+531,531,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 50.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 16.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-60.14208627204731, 167.49810156546758]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+532,532,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 180.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-145.32145479190115, 190.60058714205087]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+533,533,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-40.0, 100.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 8.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-290.00843419270007, 64.8704892016418]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+534,534,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-30.0, 70.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-8.0, 3.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1516.0251710024959, 660.00119946203]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+535,535,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-30.0, 50.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 12.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-234.52112491191298, 62.200130733678655]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+536,536,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 30.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-500.0, 100.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-96.60158742912665, 442.85376862889825]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+537,537,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 50.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 30.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-90.67248137256051, 177.40105052448035]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+538,538,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-8.0, 3.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-119.66700160802222, 158.8361649424862]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+539,539,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 14.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-100.0, 400.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-119.19742160555093, 443.18891433765833]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+540,540,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 40.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 7.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-280.0195824920165, 684.1065145653695]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+541,541,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 30.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-6.0, 16.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-85.47792768006174, 134.52204851823745]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+542,542,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 12.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-2.0, 18.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-99.58223299993256, 113.84655035373058]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+543,543,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-20.0, 20.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-1.0, 10.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-103.46185698783637, 40.44319109491368]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+544,544,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 40.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 50.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-112.73394470110495, 79.57092783992425]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+545,545,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 60.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-140.0, 40.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-179.9229787155315, 213.73243614672643]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+546,546,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 90.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-200.0, 1600.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-115.23929974846143, 166.5802626931805]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+547,547,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 70.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-100.0, 40.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-44.00287105137535, 244.0315815651289]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
+548,548,NULL,NULL,"_plateau_steps: ''
+auto_generate_title: false
+auto_refresh: false
+aux_plots:
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '---'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: false
+  x_error: false
+  y_error: false
+  ylimits: [0.0, 0.0]
+- filter_str: ''
+  height: 100
+  name: '%40Ar*'
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-10.0, 50.0]
+- filter_str: ''
+  height: 100
+  name: K/Ca
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-100.0, 400.0]
+- filter_str: ''
+  height: 0
+  name: Age
+  overlay_positions: {}
+  scale: linear
+  show_labels: false
+  use: true
+  x_error: false
+  y_error: false
+  ylimits: [-80.42676480194483, 87.64306646271113]
+center_line_style: solid
+display_extract_value: false
+display_integrated_info: true
+display_plateau_info: true
+display_step: false
+envelope_alpha: 100.0
+extend_plateau_end_caps: true
+force_plateau: false
+include_decay_error: false
+include_irradiation_error: true
+include_j_error: true
+integrated_font_size: 11
+nsigma: 1
+plateau_font_size: 11
+plateau_line_color: !!python/object/apply:PySide.QtGui.QColor
+  state: !!python/tuple
+  - setRgbF
+  - !!python/tuple [1.0, 0.0, 0.0, 1.0]
+plateau_line_width: 2.5
+show_error_type_info: true
+show_info: true
+show_mean_info: true
+step_label_font_size: 12
+step_nsigma: 2
+title: ''
+x_filter_str: ''
+xtick_font_name: modern
+xtick_font_size: 10
+xtitle_font_name: modern
+xtitle_font_size: 12
+ytick_font_name: modern
+ytick_font_size: 10
+ytitle_font_name: modern
+ytitle_font_size: 12
+","spec"
