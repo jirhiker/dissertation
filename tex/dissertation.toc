@@ -1,6 +1,6 @@
-\contentsline {chapter}{\MakeUppercase {LIST OF TABLES}}{v}
-\contentsline {chapter}{\MakeUppercase {LIST OF FIGURES}}{vi}
-\contentsline {chapter}{\MakeUppercase {PREFACE}}{vii}
+\contentsline {chapter}{\MakeUppercase {LIST OF TABLES}}{vi}
+\contentsline {chapter}{\MakeUppercase {LIST OF FIGURES}}{vii}
+\contentsline {chapter}{\MakeUppercase {PREFACE}}{viii}
 \contentsline {chapter}{\numberline {1.}\MakeUppercase {Development of an age-depth model for ANDRILL MIS AND-1B drill core, McMurdo Sound, Antarctica}}{1}
 \contentsline {chapter}{\numberline {2.}\MakeUppercase {Geochronology of Minna Bluff, Southern McMurdo Sound, Antartica}}{2}
 \contentsline {section}{\numberline {2.1}Introduction}{2}
@@ -13,6 +13,12 @@
 \contentsline {subsection}{\numberline {2.3.1}Ar-Ar}{3}
 \contentsline {subsection}{\numberline {2.3.2}Electron Microprobe}{3}
 \contentsline {section}{\numberline {2.4}Results}{3}
+\contentsline {subsection}{\numberline {2.4.1}Phase 1.}{3}
+\contentsline {subsubsection}{Ar-Ar Laser Fusion}{3}
+\contentsline {subsubsection}{Ar-Ar Step Heat}{3}
+\contentsline {subsection}{\numberline {2.4.2}Phase 2.}{3}
+\contentsline {subsubsection}{Ar-Ar Laser Fusion}{3}
+\contentsline {subsubsection}{Ar-Ar Step Heat}{3}
 \contentsline {section}{\numberline {2.5}Discussion}{3}
 \contentsline {chapter}{\numberline {3.}\MakeUppercase {Development and Testing of a laser micro furnace for Ar-Ar analysis}}{4}
 \contentsline {section}{\numberline {3.1}Design}{4}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  15 JAN 2014 14:48
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  15 JAN 2014 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -275,29 +275,29 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 (./dissertation.toc [3
 
 ]
-Overfull \hbox (4.41158pt too wide) in paragraph at lines 17--17
+Overfull \hbox (4.41158pt too wide) in paragraph at lines 23--23
  [] []\OT1/ppl/b/n/12 DEVELOPMENT AND TEST-ING OF A LASER MI-CRO FUR-NACE FOR 
  []
 
-)
+[4])
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [4] (./dissertation.lot)
+ [5] (./dissertation.lot)
 \tf@lot=\write4
 \openout4 = `dissertation.lot'.
 
- [5
+ [6
 
 ] (./dissertation.lof)
 \tf@lof=\write5
 \openout5 = `dissertation.lof'.
 
- [6
-
-] [6
+ [7
 
 ] [7
+
+] [8
 
 
 ]
@@ -359,10 +359,10 @@ e/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplb8a.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
 /local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on dissertation.pdf (21 pages, 85734 bytes).
+Output written on dissertation.pdf (22 pages, 86103 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

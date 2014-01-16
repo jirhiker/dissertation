@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dissertation.aux
 The style file: apalike.bst
-White space in argument---line 46 of file dissertation.aux
+White space in argument---line 52 of file dissertation.aux
  : \bibdata{../src/data/andrill/andrill,
  :                                       ../src/data/minna_bluff/minna_bluff, ../src/data/diode/pychron, ../src/data/pychron/pychron}
 I'm skipping whatever remains of this command

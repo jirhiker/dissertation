@@ -52,6 +52,21 @@ body:
                 title: Electron Microprobe
          -
             title: Results
+            subsections:
+                - 
+                    title: Phase 1.
+                    subsubsections:
+                        -
+                            title: Ar-Ar Laser Fusion
+                        - 
+                            title: Ar-Ar Step Heat
+                - 
+                    title: Phase 2.
+                    subsubsections:
+                        -
+                            title: Ar-Ar Laser Fusion
+                        - 
+                            title: Ar-Ar Step Heat
          -
             title: Discussion
     -
