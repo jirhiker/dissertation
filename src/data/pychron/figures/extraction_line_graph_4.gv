@@ -1,0 +1,39 @@
+digraph G {
+node [style=filled color="#00FFFF" penwidth=6];
+edge [color="#00FFFF" penwidth=5];
+ValveC [fillcolor=orange color=green];
+
+spectrometer [shape=box color=lightgray];
+section1 [shape=square color=orange];
+section2 [shape=square color=orange];
+getter [shape=box color=orange]; 
+laser [shape=box color=orange]; 
+
+ValveA [color=orange];
+ValveB [color=orange];
+ValveE [color=red];
+ValveG [color=red];
+ValveF [color=orange];
+Inlet [color=red];
+Outlet [color=lightgray];
+pump1 [shape=box color=orange];
+pump2 [shape=box color=lightgray];
+
+
+section1 -> ValveA [color=orange]
+section1 -> Inlet [color=red];
+section1 -> ValveE [color=red];
+ValveC -> pump1 [color=orange];
+
+Inlet -> spectrometer -> Outlet -> pump2 [color=lightgray];
+ValveA -> getter [color=orange];
+
+ValveC -> section1 -> ValveB -> 
+section2 -> ValveF -> laser [color=orange];
+
+section2 -> ValveG [color=red];
+
+{rank =same; pump1 section1}
+
+}
+

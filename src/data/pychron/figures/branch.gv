@@ -1,0 +1,12 @@
+digraph B {
+
+xxx [
+    label = xxx
+    pos = "0,0!"
+]
+
+yyy [
+    label = yyy
+    pos = "10,10!"
+]
+}

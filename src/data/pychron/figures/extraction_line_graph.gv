@@ -1,0 +1,20 @@
+graph G {
+spectrometer;
+section1;section2;
+getter; laser; 
+
+{node [style=filled color="0.1,0.1,0.5"];
+pump1; pump2;}
+
+ValveA;ValveB;ValveC;ValveD;ValveE,ValveF;Inlet,Outlet;
+
+
+section1 -- {ValveA,ValveB, ValveE,ValveC, Inlet};
+section2 -- {ValveD, ValveF};
+ValveD -- ValveC;
+ValveE -- pump1;
+ValveF -- pump1;
+Inlet -- spectrometer -- Outlet -- pump2;
+ValveA -- getter;
+ValveB -- laser;
+}

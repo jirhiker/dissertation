@@ -1,0 +1,75 @@
+digraph G{
+splines=true;
+sep="+25,25";
+overlap=scalexy;
+nodesep=0.6;
+
+edge [dir="both" penwidth=3 fontname="Helvetica";];
+node [shape=rectangle penwidth=3 fontname="Helvetica";];
+
+
+master_1[label="pyExperiment" style=filled color="#F0F000" fillcolor=orange]
+master_2[label="pyExperiment" style=filled color=red fillcolor="#A00000"]
+
+subgraph U{node [color=lightgray style=filled];
+user_1[label="User"]
+user_2[label="User"]
+massspec[label="MassSpec"]}
+
+subgraph{
+node [shape=house color=green style=filled];
+edge [color=green];
+massspecdb pychrondb 
+repo[style=dashed fillcolor=blue]
+
+master_1 -> pychrondb;
+master_2 -> pychrondb;
+master_1 -> massspecdb;
+master_2 -> massspecdb;
+master_1 -> repo [style=dashed];
+master_2 -> repo [style=dashed];
+massspecdb-> {massspec user_1 user_2};
+pychrondb -> {user_1 user_2};
+};
+
+
+subgraph{node [shape=rectangle style=filled color=purple]
+pyvalve[label="pyValve"]
+pyco2[label="pyCO2"]
+pydiode[label="pyDiode"]
+pyuv[label="pyUV"]}
+
+
+subgraph{node [shape=rectangle style=filled color=yellow];
+extraction_line[label="Extraction Line"];
+diode[label="Diode Laser"];
+co2[label="CO2 Laser"];
+uv[label="UV Laser"];
+argus_1[label="ArgusIV"];
+argus_2[label="ArgusIV"];
+}
+
+pc_1[label="PC"];
+pc_2[label="PC"];
+#RCS_1
+#RCS_2
+
+pc_1->argus_1
+pc_2->argus_2
+pyvalve->extraction_line
+pydiode->diode
+pyco2->co2
+pyuv->uv
+
+master_1 ->{pyvalve, pyco2,pydiode,pyuv}[color="#F0F000"];
+master_2 ->{pyvalve, pyco2,pydiode,pyuv}[color=red];
+
+master_1 ->pc_1 [label="RCS"]
+master_2 ->pc_2 [label="RCS"]
+
+#{rank=source; user_1 user_2 massspec}
+{rank=min; pychrondb massspecdb repo}
+#{rank=same; pydiode pyuv pyco2}
+#{rank=min; repo massspecdb pychrondb}
+#{rank=same; RCS_1 pc_1 RCS_2 pc_2}
+}
